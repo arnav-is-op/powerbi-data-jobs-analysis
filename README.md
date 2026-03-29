@@ -116,7 +116,7 @@ Bookmarks used to toggle between filtered/unfiltered states and show/hide slicer
 
 ---
 ## 📂 Data Source
-Dataset sourced from [Luke Barousse's Data Jobs Dataset](https://www.lukebarousse.com/sql) — 479K job postings from 2024.
+Dataset sourced from [Luke Barousse's Data Jobs Dataset](https://drive.google.com/file/d/1xiNSeNRKiuTrCDmJbDo3ukom47HaBeQj/view?usp=drive_link) — 479K job postings from 2024.
 
 ---
 ## 📓 Notes
