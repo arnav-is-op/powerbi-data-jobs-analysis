@@ -112,19 +112,16 @@ Bookmarks used to toggle between filtered/unfiltered states and show/hide slicer
 
 ## 🛠️ Tools Used
 
-- **Power BI Desktop** — report building, DAX measures, Power Query
-- **DAX** — calculated measures for median salary, job counts, salary star ratings
-- **Power Query** — data transformation and cleaning
+-- Power BI Desktop — report building, visualizations, bookmarks, slicers, buttons, navigation
 
 ---
 
 ## 📓 Notes
 
-See `notes.ipynb` for detailed documentation on how each visualization was built, including DAX formulas used, design decisions, and lessons learned.
+See `notes.ipynb` for detailed documentation on how each visualization was built.
 
 ---
 
-## 🔗 Related Projects
+## 🔗 Author
 
-- [SQL Data Jobs Analysis](https://github.com/arnav-is-op) — SQL-based analysis of the same dataset
-- [Python Job Postings Analysis](https://github.com/arnav-is-op/python_project_for_job_analysis) — Python/Pandas analysis with Matplotlib & Seaborn visualizations
+Arnav Heerakar
