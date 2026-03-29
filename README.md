@@ -19,6 +19,12 @@ powerbi-visualizations-demo/
 
 ---
 
+## 📓 Notes
+
+See `notes.ipynb` for detailed documentation on how each visualization was built.
+
+---
+
 ## 🗂️ Report Pages
 
 The report has an interactive home page with navigation buttons linking to each section.
@@ -109,18 +115,23 @@ Bookmarks used to toggle between filtered/unfiltered states and show/hide slicer
 **Fields include:** job title, company name, salary (yearly & hourly), location, job type, WFH status, degree requirement, health insurance, skills
 
 ---
+## 📂 Data Source
+Dataset sourced from [Luke Barousse's Data Jobs Dataset](https://www.lukebarousse.com/sql) — 479K job postings from 2024.
 
+---
+## 📓 Notes
+ 
+Detailed documentation on how each visualization was built, including design decisions and lessons learned.
+ 
+👉 [View Notes on Google Colab](https://colab.research.google.com/drive/1l9vjSmjTugoo8AjMN7IMlOIiUhUHG57d)
+ 
+---
 ## 🛠️ Tools Used
 
 -- Power BI Desktop — report building, visualizations, bookmarks, slicers, buttons, navigation
 
 ---
 
-## 📓 Notes
-
-See `notes.ipynb` for detailed documentation on how each visualization was built.
-
----
 
 ## 🔗 Author
 
