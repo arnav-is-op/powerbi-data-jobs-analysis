@@ -227,3 +227,9 @@ Detailed documentation on how each visualization was built, including design dec
 
 - [SQL Data Jobs Analysis](https://github.com/arnav-is-op) — SQL-based analysis of the same dataset
 - [Python Job Postings Analysis](https://github.com/arnav-is-op/python_project_for_job_analysis) — Python/Pandas analysis with Matplotlib & Seaborn visualizations
+---
+
+## Author 
+Arnav Heerakar
+
+---
