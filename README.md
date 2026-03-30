@@ -108,17 +108,6 @@ A comprehensive Power BI report demonstrating 15+ visualization types applied to
 
 ---
 
-## 📁 Project Structure
-
-```
-powerbi-visualizations-demo/
-├── 2_visualizations.pbix       # Power BI report file
-├── images/                     # Screenshots of all report pages
-└── README.md
-```
-
----
-
 ## 🗂️ Report Pages
 
 ### 🏠 Home — Navigation Page
@@ -225,8 +214,9 @@ Detailed documentation on how each visualization was built, including design dec
 
 ## 🔗 Related Projects
 
-- [SQL Data Jobs Analysis](https://github.com/arnav-is-op) — SQL-based analysis of the same dataset
+- [SQL Data Jobs Analysis](https://github.com/arnav-is-op/SQL_Project_Data_Job_Analysis) — SQL-based analysis of the same dataset
 - [Python Job Postings Analysis](https://github.com/arnav-is-op/python_project_for_job_analysis) — Python/Pandas analysis with Matplotlib & Seaborn visualizations
+- [Another SQL Project](https://github.com/arnav-is-op/SQL-Analytics-Project-Intermediate-Level)
 ---
 
 ## Author 
